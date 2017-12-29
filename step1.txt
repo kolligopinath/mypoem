@@ -1,5 +1,9 @@
+ newbranch1
+my new repository version 1 asdjafk
+
 my new repository version 1 editing master when branch is chaning
+master
 new changes ver 2
 new changes ver 3
 
-new branch started.
+new branch started.adafj;l
