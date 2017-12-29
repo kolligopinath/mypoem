@@ -1,4 +1,4 @@
-my new repository version 1
+my new repository version 1 editing master when branch is chaning
 new changes ver 2
 new changes ver 3
 
